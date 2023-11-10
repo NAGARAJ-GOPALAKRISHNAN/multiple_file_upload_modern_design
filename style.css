@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.drop-zone {
+    border: 2px dashed #ccc;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.drop-text {
+    margin: 0;
+}
+
+.file-item {
+    margin: 5px 0;
+    padding: 5px;
+    border: 1px solid #eee;
+}
+
+.progress-bar {
+    height: 20px;
+    margin-top: 5px;
+}
